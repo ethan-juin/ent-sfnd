@@ -7,7 +7,10 @@ body {
 }
 .titre {
     font-size: 50px;
-    text-align: center;
+    border-style: double;
+    padding: 10px 20px;
+    width: fit-content;
+    margin: 10px auto;
 }
 #acces {
     background-color: white;
@@ -83,6 +86,36 @@ body {
     text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000, 1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;;
 }
 
+#contact-form {
+  text-align: center;
+}
+
+.labelform {
+  color: #0062ff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 50px;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.inputform {
+  width: 50%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #000;
+  border-radius: 4px;
+  font-size: 16px;
+}
+#sendform {
+  background-color: #0062ff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 4px;
+}
 /* CODE POUR LE MENU */
 
 .section-center{
