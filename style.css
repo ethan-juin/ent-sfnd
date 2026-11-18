@@ -116,6 +116,16 @@ body {
   cursor: pointer;
   border-radius: 4px;
 }
+
+/* ORIENTATION */
+
+.imgorientation {
+    height: 50px;
+}
+
+
+
+
 /* CODE POUR LE MENU */
 
 .section-center{
