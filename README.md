@@ -1,5 +1,5 @@
 Upcoming changes :
-- [ ] Content on "Grand Oral" page
+- [X] ~~Content on "Grand Oral" page~~
 - [ ] Content on "Tutoriels" page
 - [ ] Content on "CDI" page
 - [ ] CSS adapted for all pages
