@@ -120,11 +120,30 @@ body {
 /* ORIENTATION */
 
 .imgorientation {
-    height: 50px;
+    height: 100px;
+    display: block;
+    margin: auto;
 }
 
+.titreorientation {
+    font-size: 45px;
+    text-align: center;
+    color: #0000ff;
+}
 
+.trucorientation {
+    text-align: center;
+    color: black;
+    padding: 10px 20px;
+    font-size: 20px;
+    width: fit-content;
+    margin: 30px auto;
+    background-color: #FAD48F;
+}
 
+.lienorientation {
+  text-decoration: none;
+}
 
 /* CODE POUR LE MENU */
 
