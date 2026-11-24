@@ -145,6 +145,15 @@ body {
   text-decoration: none;
 }
 
+.titrecdi {
+    font-size: 45px;
+    text-align: center;
+}
+.imgcdi {
+    display: block;
+    margin: 0 auto 30px auto;
+    text-align: center;
+}
 /* CODE POUR LE MENU */
 
 .section-center{
