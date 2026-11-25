@@ -3,7 +3,10 @@
     margin: auto;
 }
 body {
-    background-color: #F5AD27;
+    background-color: #f8be51;
+}
+#liencharte {
+  color: #000000;
 }
 .titre {
     font-size: 50px;
@@ -17,7 +20,7 @@ body {
     border: double;
     border-radius: 5px;
     border-width: 5px;
-    background-color: #FAD48F;
+    background-color: #fc9003;
 }
 #rappelco {
     font-size: 19px;
@@ -127,8 +130,12 @@ body {
 
 .titreorientation {
     font-size: 45px;
-    text-align: center;
-    color: #0000ff;
+    color: #fc6b03;
+    border: solid #fc6b03;
+    padding: 0;
+    line-height: 1;
+    width: fit-content;
+    margin: 50px auto;
 }
 
 .trucorientation {
@@ -137,8 +144,10 @@ body {
     padding: 10px 20px;
     font-size: 20px;
     width: fit-content;
-    margin: 30px auto;
-    background-color: #FAD48F;
+    margin: 10px auto 50px;
+    background-color: #ffee00;
+    border-radius: 20px;
+    border: double #000000;
 }
 
 .lienorientation {
